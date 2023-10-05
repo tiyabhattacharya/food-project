@@ -371,6 +371,8 @@ blockquote::before{
 .plan-box div{
     padding: 15px;
     border-bottom: 1px solid #ebebeb;
+    
+    
 }
 
 .plan-price{
@@ -394,15 +396,18 @@ blockquote::before{
 }
 .plan-box ul li{
     padding:5px 0 ;
+   
 }
 
 .plan-box div:last-child{
     border: 0;
     text-align: center;
+   
 
 }
 .plan-box div:first-child{
     background-color: #fcfcfc;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    
 }
